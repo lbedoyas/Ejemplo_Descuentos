@@ -1,0 +1,6 @@
+C:\Users\lucho\Desktop\Visual Studio\C#\DescuentoEscritorios\DescuentoEscritorios\bin\Debug\DescuentoEscritorios.exe.config
+C:\Users\lucho\Desktop\Visual Studio\C#\DescuentoEscritorios\DescuentoEscritorios\bin\Debug\DescuentoEscritorios.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\DescuentoEscritorios\DescuentoEscritorios\bin\Debug\DescuentoEscritorios.pdb
+C:\Users\lucho\Desktop\Visual Studio\C#\DescuentoEscritorios\DescuentoEscritorios\obj\Debug\DescuentoEscritorios.csprojResolveAssemblyReference.cache
+C:\Users\lucho\Desktop\Visual Studio\C#\DescuentoEscritorios\DescuentoEscritorios\obj\Debug\DescuentoEscritorios.exe
+C:\Users\lucho\Desktop\Visual Studio\C#\DescuentoEscritorios\DescuentoEscritorios\obj\Debug\DescuentoEscritorios.pdb
